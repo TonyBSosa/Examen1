@@ -1,0 +1,14 @@
+{
+  "name": "examen1",
+  "version": "1.0.0",
+  "description": "evaluacion del primer parcial programacion 4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "examen"
+  ],
+  "author": "Tony Sosa 61551379",
+  "license": "MIT"
+}
